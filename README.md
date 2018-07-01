@@ -9,29 +9,7 @@
   
 # Section 3:
   OUTPUT :
-  RUN 1:
-  ==========================================================================================
-  FINAL OUTPUT :
-  ==========================================================================================
-  HAVING 12 BOLTS AND 6 MACHINES WITH 10 SECONDS TO MAKE A PRODUCT, WE HAVE....
-  TOTAL PRODUCTS ASSEMBLED : 6
-  TOTAL TIME TAKE TO ASSEMBLE : 60 SECONDS
-
-  RUN 2:
-  ==========================================================================================
-  FINAL OUTPUT :
-  ==========================================================================================
-  HAVING 12 BOLTS AND 6 MACHINES WITH 10 SECONDS TO MAKE A PRODUCT, WE HAVE....
-  TOTAL PRODUCTS ASSEMBLED : 3
-  TOTAL TIME TAKE TO ASSEMBLE : 20 SECONDS
-  
-  RUN 3:
-  ==========================================================================================
-  FINAL OUTPUT :
-  ==========================================================================================
-  HAVING 12 BOLTS AND 6 MACHINES WITH 10 SECONDS TO MAKE A PRODUCT, WE HAVE....
-  TOTAL PRODUCTS ASSEMBLED : 6
-  TOTAL TIME TAKE TO ASSEMBLE : 40 SECONDS
+  https://github.com/ssdhande/boltMachineProblem/blob/master/FINAL_OUTPUT_MULTIPLE_RUNS.png
   
   JUNIT:
   
