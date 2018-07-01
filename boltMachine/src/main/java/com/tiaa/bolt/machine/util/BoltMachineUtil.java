@@ -20,6 +20,14 @@ public class BoltMachineUtil {
 	public static String lastProvidedResource = null;
 	public static Map<Long, String> timeMap = new HashMap<Long, String>();
 	
+	/**
+	 * This method simulates functionality of employee and belt
+	 * where belt is rotating raw material in alternate sequence
+	 * to be picked by employee
+	 * also employee can pick the material required as per belt's rotation
+	 * @param materialRequired
+	 * @return lastProvidedResource
+	 */
 	public String pickMaterialFromConvBelt(String materialRequired){
 		
 		if (BoltMachineTest.NO_OF_BOLTS == AVLBL_NO_OF_BOLTS
