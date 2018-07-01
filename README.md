@@ -8,8 +8,9 @@
   JDK Version : jdk1.8.0_171
   
 # Section 3:
+  
   OUTPUT :
-  https://github.com/ssdhande/boltMachineProblem/blob/master/FINAL_OUTPUT_MULTIPLE_RUNS.png
+  
   https://github.com/ssdhande/boltMachineProblem/blob/master/FINAL_OUTPUT_MULTIPLE_RUNS.txt
   
   JUNIT:
