@@ -2,7 +2,7 @@
   Name : Satyajit Dhande
   Years of Experience : 10 Years 8 Months
 
-# Sectrion 2:
+# Section 2:
   BUILD IDE : Version: Kepler Service Release 2
               Build id: 20140224-0627
   JDK Version : jdk1.8.0_171
