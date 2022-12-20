@@ -1,6 +1,6 @@
 # Section 1:
   Name : Satyajit Dhande
-  Years of Experience : 10 Years 8 Months
+ 
 
 # Section 2:
   BUILD IDE : Version: Kepler Service Release 2
